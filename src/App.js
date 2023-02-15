@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
         <h1>yamini</h1>
+        <h2>you</h2>
        
 
         {/* {Home (the one with search on)} */}
