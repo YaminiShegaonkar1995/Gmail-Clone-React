@@ -5,8 +5,10 @@ function App() {
   return (
     <div className="App">
         <h1>yamini</h1>
+       
 
         {/* {Home (the one with search on)} */}
+        <Home />
         {/* {search page (the result page)} */}
     </div>
   );
