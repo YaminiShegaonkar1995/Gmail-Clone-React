@@ -1,11 +1,20 @@
+<<<<<<< HEAD
+=======
+.App {
+  text-align: center;
+}
+>>>>>>> 0583c2e45a50ab54210ca3f86b1edf885efd65c5
 *{
   margin: 0;
 }
 
+<<<<<<< HEAD
 /* .App {
   text-align: center;
 }
 
+=======
+>>>>>>> 0583c2e45a50ab54210ca3f86b1edf885efd65c5
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -18,14 +27,22 @@
 }
 
 .App-header {
+<<<<<<< HEAD
   background-color: #282c34;
+=======
+  /* background-color: #282c34; */
+>>>>>>> 0583c2e45a50ab54210ca3f86b1edf885efd65c5
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+<<<<<<< HEAD
   color: white;
+=======
+  color: black;
+>>>>>>> 0583c2e45a50ab54210ca3f86b1edf885efd65c5
 }
 
 .App-link {
@@ -39,4 +56,8 @@
   to {
     transform: rotate(360deg);
   }
+<<<<<<< HEAD
 } */
+=======
+}
+>>>>>>> 0583c2e45a50ab54210ca3f86b1edf885efd65c5

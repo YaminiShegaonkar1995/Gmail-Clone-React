@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import './App.css';
 import Home from './Home';
@@ -23,6 +24,21 @@ const App=()=>{
 
     {/* search page (the result page)  */}
     </BrowserRouter>
+=======
+import logo from './logo.svg';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+        <h1>yamini</h1>
+        <h2>you</h2>
+       
+
+        {/* {Home (the one with search on)} */}
+        <Home />
+        {/* {search page (the result page)} */}
+>>>>>>> 0583c2e45a50ab54210ca3f86b1edf885efd65c5
     </div>
   );
 }
